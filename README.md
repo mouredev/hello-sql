@@ -1,7 +1,7 @@
 # Hello SQL
 
 [![SQL](https://img.shields.io/badge/MySQL-8.0+-f29221?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](https://mysql.com)
-[![SQL](https://img.shields.io/badge/PostgreSQL-16+-699eca?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](https://postgresql.org)
+[![SQL](https://img.shields.io/badge/PostgreSQL-16+-699eca?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)](https://postgresql.org)
 
 ## Curso para aprender los fundamentos del lenguaje SQL y bases de datos relacionales
 
@@ -10,9 +10,13 @@
 ### Proyecto realizado durante emisiones en directo desde [Twitch](https://twitch.tv/mouredev)
 > ##### Si consideras útil el curso, apóyalo haciendo "★ Star" en el repositorio. ¡Gracias!
 
-## Primera Clase: 05/10/2023
+## Próxima Clase: 12/10/2023
 ### ⏰ 20:00 (hora España) en directo desde [Twitch](https://twitch.tv/mouredev)
-### 🌐 Consulta el horario por país y crea un recordatorio desde [Discord](https://discord.gg/pQ6Jk68z?event=1156640918397538425)
+### 🌐 Consulta el horario por país y crea un recordatorio desde [Discord](https://discord.gg/mouredev?event=1159788388359082014)
+
+## Clases anteriores
+
+### Clase 1 (05/10/2023): Introducción, fundamentos e instalación MySQL ▶️ [Ver clase en vídeo](https://www.twitch.tv/videos/1943373276?t=00h19m44s)
 
 Durante el curso aprenderemos los fundamentos del lenguaje SQL y las bases de datos relacionales con ejemplos prácticos.
 Nos centraremos en MySQL para llevar a cabo las clases, ya que es uno de los más usados en enseñanza y a nivel profesional. También utilizaremos PostgreSQL ya que es una de las bases de datos más populares de la actualidad. De todas formas, no debe preocuparte el motor de bases de datos utilizado, ya que SQL es un lenguaje estándar, por lo que se utilizará prácticamente igual en todas ellas. Una vez lo conozcas no tendrá dificultad alguna llevar esos conocimientos a otros sistemas.  
@@ -28,6 +32,8 @@ Una vez se finalice, se creará un vídeo que agrupe todas las clases y se publi
 
 * [Documentación SQL](https://www.w3schools.com/sql/default.asp)
 * [MySQL](https://mysql.com)
+* [Descarga MySQL](https://dev.mysql.com/downloads/mysql/)
+* [CLI MySQL](https://dev.mysql.com/doc/refman/8.0/en/mysql.html)
 
 #### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
 
