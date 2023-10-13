@@ -1,3 +1,8 @@
+/*
+SELECT
+Clase 2: https://twitch.tv/videos/1949226275
+*/
+
 -- Obtiene todos los datos de la tabla "users"
 SELECT * FROM users;
 
