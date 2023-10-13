@@ -10,13 +10,16 @@
 ### Proyecto realizado durante emisiones en directo desde [Twitch](https://twitch.tv/mouredev)
 > ##### Si consideras útil el curso, apóyalo haciendo "★ Star" en el repositorio. ¡Gracias!
 
-## Próxima Clase: 12/10/2023
+## Próxima Clase: Martes 17/10/2023
 ### ⏰ 20:00 (hora España) en directo desde [Twitch](https://twitch.tv/mouredev)
-### 🌐 Consulta el horario por país y crea un recordatorio desde [Discord](https://discord.gg/mouredev?event=1159788388359082014)
+### 🌐 Consulta el horario por país y crea un recordatorio desde [Discord](https://discord.gg/Kg2FHk4W?event=1162278186030219264)
 
 ## Clases anteriores
 
-### Clase 1 (05/10/2023): Introducción, fundamentos e instalación MySQL ▶️ [Ver clase en vídeo](https://www.twitch.tv/videos/1943373276?t=00h19m44s)
+### Clase 1 (05/10/2023): Introducción, fundamentos e instalación MySQL 
+#### ▶️ [Ver clase en vídeo](https://www.twitch.tv/videos/1943373276?t=00h19m44s)
+### Clase 2 (12/10/2023): Instalación MySQL Workbench, creación BBDD, tablas y comandos SELECT
+#### ▶️ [Ver clase en vídeo](https://www.twitch.tv/videos/1949226275?t=00h25m17s)
 
 Durante el curso aprenderemos los fundamentos del lenguaje SQL y las bases de datos relacionales con ejemplos prácticos.
 Nos centraremos en MySQL para llevar a cabo las clases, ya que es uno de los más usados en enseñanza y a nivel profesional. También utilizaremos PostgreSQL ya que es una de las bases de datos más populares de la actualidad. De todas formas, no debe preocuparte el motor de bases de datos utilizado, ya que SQL es un lenguaje estándar, por lo que se utilizará prácticamente igual en todas ellas. Una vez lo conozcas no tendrá dificultad alguna llevar esos conocimientos a otros sistemas.  
@@ -28,12 +31,15 @@ Este curso se encuentra en desarrollo. Todo el contenido se crea en directo desd
 
 Una vez se finalice, se creará un vídeo que agrupe todas las clases y se publicará en [YouTube](https://www.youtube.com/@mouredev).
 
+* Recuerda que he creado en el [Discord](https://discord.gg/mouredev) un canal "💾bases-de-datos" para que puedas comentar lo que quieras.
+
 ## Enlaces de interés
 
 * [Documentación SQL](https://www.w3schools.com/sql/default.asp)
 * [MySQL](https://mysql.com)
 * [Descarga MySQL](https://dev.mysql.com/downloads/mysql/)
 * [CLI MySQL](https://dev.mysql.com/doc/refman/8.0/en/mysql.html)
+* [MySQL Workbench](https://dev.mysql.com/downloads/workbench)
 
 #### Puedes apoyar mi trabajo haciendo "☆ Star" en el repo o nominarme a "GitHub Star". ¡Gracias!
 
