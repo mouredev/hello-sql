@@ -21,7 +21,7 @@
 ### Clase 2 (12/10/2023): Instalación MySQL Workbench, creación BBDD, tablas y comandos SELECT
 #### ▶️ [Ver clase en vídeo](https://www.twitch.tv/videos/1949226275?t=00h25m17s)
 ### Clase 3 (17/10/2023): Comandos SELECT y de escritura (INSERT, UPDATE y DELETE)
-#### ▶️ [Ver clase en vídeo](hhttps://www.twitch.tv/videos/1953432950?t=00h23m40s)
+#### ▶️ [Ver clase en vídeo](https://www.twitch.tv/videos/1953432950?t=00h23m40s)
 
 Durante el curso aprenderemos los fundamentos del lenguaje SQL y las bases de datos relacionales con ejemplos prácticos.
 Nos centraremos en MySQL para llevar a cabo las clases, ya que es uno de los más usados en enseñanza y a nivel profesional. También utilizaremos PostgreSQL ya que es una de las bases de datos más populares de la actualidad. De todas formas, no debe preocuparte el motor de bases de datos utilizado, ya que SQL es un lenguaje estándar, por lo que se utilizará prácticamente igual en todas ellas. Una vez lo conozcas no tendrá dificultad alguna llevar esos conocimientos a otros sistemas.  
