@@ -10,9 +10,9 @@
 ### Proyecto realizado durante emisiones en directo desde [Twitch](https://twitch.tv/mouredev)
 > ##### Si consideras útil el curso, apóyalo haciendo "★ Star" en el repositorio. ¡Gracias!
 
-## Próxima Clase: Martes 24/10/2023
+## Próxima Clase: Martes 31/10/2023
 ### ⏰ 20:00 (hora España) en directo desde [Twitch](https://twitch.tv/mouredev)
-### 🌐 Consulta el horario por país y crea un recordatorio desde [Discord](https://discord.gg/mouredev?event=1164163319003873340)
+### 🌐 Consulta el horario por país y crea un recordatorio desde [Discord](https://discord.gg/mouredev?event=1166600316016402452)
 
 ## Clases anteriores
 
@@ -22,6 +22,8 @@
 #### ▶️ [Ver clase en vídeo](https://www.twitch.tv/videos/1949226275?t=00h25m17s)
 ### Clase 3 (17/10/2023): Comandos SELECT y de escritura (INSERT, UPDATE y DELETE)
 #### ▶️ [Ver clase en vídeo](https://www.twitch.tv/videos/1953432950?t=00h23m40s)
+### Clase 4 (25/10/2023): Comandos DATABASE, TABLE y tipos de relación entre tablas
+#### ▶️ [Ver clase en vídeo](https://www.twitch.tv/videos/1959296112?t=00h19m20s)
 
 Durante el curso aprenderemos los fundamentos del lenguaje SQL y las bases de datos relacionales con ejemplos prácticos.
 Nos centraremos en MySQL para llevar a cabo las clases, ya que es uno de los más usados en enseñanza y a nivel profesional. También utilizaremos PostgreSQL ya que es una de las bases de datos más populares de la actualidad. De todas formas, no debe preocuparte el motor de bases de datos utilizado, ya que SQL es un lenguaje estándar, por lo que se utilizará prácticamente igual en todas ellas. Una vez lo conozcas no tendrá dificultad alguna llevar esos conocimientos a otros sistemas.  
