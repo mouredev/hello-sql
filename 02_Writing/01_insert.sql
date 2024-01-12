@@ -1,6 +1,6 @@
 /*
-INSERT INTO
-Clase 3: https://twitch.tv/videos/1953432950
+INSERT
+Lección 11.1: https://youtu.be/OuJerKzV5T0?t=10370
 */
 
 -- Inserta un registro con identificador, nombre y apellido en la tabla "users"

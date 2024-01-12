@@ -1,6 +1,6 @@
 /*
 GROUP BY
-Clase 3: https://twitch.tv/videos/1953432950
+Lección 10.11: https://youtu.be/OuJerKzV5T0?t=8960
 */
 
 -- Agrupa los resultados por edad diferente

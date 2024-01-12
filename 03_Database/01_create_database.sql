@@ -1,6 +1,6 @@
 /*
 CREATE DATABASE
-Clase 4: https://twitch.tv/videos/1959296112
+Lección 12.1: https://youtu.be/OuJerKzV5T0?t=11064
 */
 
 -- Crea una base de datos llamada "test"

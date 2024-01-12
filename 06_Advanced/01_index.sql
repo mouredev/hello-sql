@@ -1,6 +1,6 @@
 /*
 INDEX
-Clase 6: https://twitch.tv/videos/1997815022
+Lección 18.1: https://youtu.be/OuJerKzV5T0?t=18219
 */
 
 -- Crea un índice llamado "idx_name" en la tabla "users" asociado al campo "name"

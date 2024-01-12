@@ -1,6 +1,6 @@
 /*
 INNER JOIN (JOIN)
-Clase 5: https://twitch.tv/videos/1965141039
+Lección 17.1: https://youtu.be/OuJerKzV5T0?t=16101
 */
 
 -- Realiza un JOIN de manera incorrecta, ya que no existe un campo de relación

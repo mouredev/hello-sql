@@ -1,6 +1,6 @@
 /*
 LEFT JOIN
-Clase 5: https://twitch.tv/videos/1965141039
+Lección 17.2: https://youtu.be/OuJerKzV5T0?t=17045
 */
 
 -- Obtiene los datos de todos los usuarios junto a su dni (lo tenga o no)

@@ -1,6 +1,6 @@
 /*
 SUM
-Clase 3: https://twitch.tv/videos/1953432950
+Lección 10.5: https://youtu.be/OuJerKzV5T0?t=8128
 */
 
 -- Suma todos los valores del campo edad de la tabla "users"

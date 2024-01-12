@@ -1,6 +1,6 @@
 /*
 IN
-Clase 3: https://twitch.tv/videos/1953432950
+Lección 10.7: https://youtu.be/OuJerKzV5T0?t=8335
 */
 
 -- Ordena todos los datos de la tabla "users" con nombre igual a brais y sara

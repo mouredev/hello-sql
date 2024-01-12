@@ -1,6 +1,6 @@
 /*
 CONCAT
-Clase 3: https://twitch.tv/videos/1953432950
+Lección 10.10: https://youtu.be/OuJerKzV5T0?t=8826
 */
 
 -- Concatena en una sola columa los campos nombre y apellido

@@ -1,10 +1,10 @@
 /*
-TIPO DE RELACIONES
-Clase 4: https://twitch.tv/videos/1959296112
+TIPOS DE RELACIONES
 */
 
 /*
 Relación 1:1 (uno a uno)
+Lección 15.1: https://youtu.be/OuJerKzV5T0?t=13490
 Relación que indica que un registro en la tabla A se relaciona 
 con un sólo registro en la tabla B y viceversa.
 */
@@ -21,6 +21,7 @@ CREATE TABLE dni(
 
 /*
 Relación 1:N (uno a muchos)
+Lección 15.2: https://youtu.be/OuJerKzV5T0?t=13732
 Relación que indica que un registro en la tabla A puede tener varios registros relacionados en la
 tabla B, pero un registro en la tabla B se relaciona con un sólo registro en la tabla A.
 */
@@ -38,6 +39,7 @@ FOREIGN KEY(company_id) REFERENCES companies(company_id)
 
 /*
 Relación N:M (muchos a muchos)
+Lección 15.3: https://youtu.be/OuJerKzV5T0?t=14313
 Relación que indica que un un registro en la tabla A puede relacionarse
 con varios registros en la tabla B y viceversa.
 Requiere una tabla intermedia o de unión para establecer la relación.
@@ -68,7 +70,11 @@ relacionarse con otro registro de la tabla A.
 
 /*
 INSERT y UPDATE para trabajar con JOIN
-Clase 5: https://twitch.tv/videos/1965141039
+*/
+
+/*
+1:1
+Lección 16.1: https://youtu.be/OuJerKzV5T0?t=14994
 */
 
 -- "dni" (Relación 1:1)
@@ -76,6 +82,11 @@ INSERT INTO dni (dni_number, user_id) VALUES (11111111, 1);
 INSERT INTO dni (dni_number, user_id) VALUES (22222222, 2);
 INSERT INTO dni (dni_number, user_id) VALUES (33333333, 3);
 INSERT INTO dni (dni_number) VALUES (44444444);
+
+/*
+1:N
+Lección 16.2: https://youtu.be/OuJerKzV5T0?t=15203
+*/
 
 -- "companies" y "users"  (Relación 1:N)
 INSERT INTO companies (name) VALUES ('MoureDev');
@@ -86,6 +97,11 @@ UPDATE users SET company_id = 1 WHERE user_id = 1;
 UPDATE users SET company_id = 2 WHERE user_id = 3;
 UPDATE users SET company_id = 3 WHERE user_id = 4;
 UPDATE users SET company_id = 1 WHERE user_id = 7;
+
+/*
+N:M
+Lección 16.3: https://youtu.be/OuJerKzV5T0?t=15474
+*/
 
 -- "languages" y "users_languages"  (Relación N:M)
 INSERT INTO languages (name) VALUES ('Swift');

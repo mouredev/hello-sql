@@ -1,5 +1,6 @@
 # CONNECTORS
-# Clase 6: https://twitch.tv/videos/1997815022
+# Lección 19.1: https://youtu.be/OuJerKzV5T0?t=20876
+# Lección 19.2: https://youtu.be/OuJerKzV5T0?t=21149
 
 # Ejemplo de conexión desde Python a una base de datos local
 # Se ejemplifica cómo evitar SQL INJECTION

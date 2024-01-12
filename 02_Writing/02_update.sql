@@ -1,6 +1,6 @@
 /*
 UPDATE
-Clase 3: https://twitch.tv/videos/1953432950
+Lección 11.2: https://youtu.be/OuJerKzV5T0?t=10621
 */
 
 -- Estable el valor 21 para la edad del registro de la tabla "users" con identificador igual a 11

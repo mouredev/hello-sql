@@ -1,6 +1,6 @@
 /*
 DROP DATABASE
-Clase 4: https://twitch.tv/videos/1959296112
+Lección 12.2: https://youtu.be/OuJerKzV5T0?t=11180
 */
 
 -- Elimina la base de datos llamada "test"

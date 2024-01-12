@@ -1,6 +1,6 @@
 /*
 STORED PROCEDURES
-Clase 6: https://twitch.tv/videos/1997815022
+Lección 18.4: https://youtu.be/OuJerKzV5T0?t=20033
 */
 
 -- Crea un procedimiento almacenado llamado "p_all_users" que obtiene todos los datos de "users"

@@ -1,6 +1,6 @@
 /*
 TRANSACTIONS
-Clase 6: https://twitch.tv/videos/1997815022
+Lección 18.5: https://youtu.be/OuJerKzV5T0?t=20501
 */
 
 -- Inicia una nueva transacción. Desde este punto, todas las modificaciones realizadas en la

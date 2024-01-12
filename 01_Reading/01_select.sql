@@ -1,6 +1,6 @@
 /*
 SELECT
-Lección 8: https://youtube.com/@mouredev
+Lección 8: https://youtu.be/OuJerKzV5T0?t=5618
 */
 
 -- Obtiene todos los datos de la tabla "users"

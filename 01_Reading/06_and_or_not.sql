@@ -1,6 +1,6 @@
 /*
 NOT, AND, OR
-Lección 9.5: https://youtube.com/@mouredev
+Lección 9.5: https://youtu.be/OuJerKzV5T0?t=7194
 */
 
 -- Obtiene todos datos de la tabla "users" con email distinto a sara@gmail.com

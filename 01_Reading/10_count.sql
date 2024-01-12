@@ -1,6 +1,6 @@
 /*
 COUNT
-Clase 3: https://twitch.tv/videos/1953432950
+Lección 10.4: https://youtu.be/OuJerKzV5T0?t=8043
 */
 
 -- Cuenta cuantas filas contiene la tabla "users"

@@ -1,6 +1,6 @@
 /*
 RIGHT JOIN
-Clase 5: https://twitch.tv/videos/1965141039
+Lección 17.3: https://youtu.be/OuJerKzV5T0?t=17399
 */
 
 -- Obtiene todos los dni junto a su usuario (lo tenga o no)
