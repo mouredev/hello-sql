@@ -1,6 +1,6 @@
 /*
 SELECT
-Clase 2: https://twitch.tv/videos/1949226275
+Lección 8: https://youtube.com/@mouredev
 */
 
 -- Obtiene todos los datos de la tabla "users"

@@ -1,6 +1,6 @@
 /*
 LIMIT
-Clase 2: https://twitch.tv/videos/1949226275
+Lección 9.6: https://youtube.com/@mouredev
 */
 
 -- Obtiene las 3 primeras filas de la tabla "users"

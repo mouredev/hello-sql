@@ -1,6 +1,6 @@
 /*
 DISTINCT
-Clase 2: https://twitch.tv/videos/1949226275
+Lección 9.1: https://youtube.com/@mouredev
 */
 
 -- Obtiene todos los datos distintos entre sí de la tabla "users"

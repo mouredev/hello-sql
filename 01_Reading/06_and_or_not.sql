@@ -1,6 +1,6 @@
 /*
 NOT, AND, OR
-Clase 2: https://twitch.tv/videos/1949226275
+Lección 9.5: https://youtube.com/@mouredev
 */
 
 -- Obtiene todos datos de la tabla "users" con email distinto a sara@gmail.com

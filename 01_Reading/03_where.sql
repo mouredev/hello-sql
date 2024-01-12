@@ -1,6 +1,6 @@
 /*
 WHERE
-Clase 2: https://twitch.tv/videos/1949226275
+Lección 9.2: https://youtube.com/@mouredev
 */
 
 -- Filtra todos los datos de la tabla "users" con edad igual a 15

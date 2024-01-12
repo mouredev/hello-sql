@@ -1,6 +1,6 @@
 /*
 LIKE
-Clase 2: https://twitch.tv/videos/1949226275
+Lección 9.4: https://youtube.com/@mouredev
 */
 
 -- Obtiene todos datos de la tabla "users" que contienen un email con el texto "gmail.com" en su parte final

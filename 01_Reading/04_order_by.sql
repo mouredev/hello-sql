@@ -1,6 +1,6 @@
 /*
 ORDER BY
-Clase 2: https://twitch.tv/videos/1949226275
+Lección 9.3: https://youtube.com/@mouredev
 */
 
 -- Ordena todos los datos de la tabla "users" por edad (ascendente por defecto)
