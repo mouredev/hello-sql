@@ -30,6 +30,8 @@ CREATE TABLE companies(
 	company_id int AUTO_INCREMENT PRIMARY KEY,
     name varchar(100) NOT NULL
 );
+ALTER TABLE users
+ADD company_id int;
 
 -- El campo company_id de la tabla "users" es clave foránea de la clave primaria company_id de la tabla "companies"
 -- (Un empleado (usuario) sólo puede tener una empresa, pero una empresa puede tener muchos empleados (usuarios))
